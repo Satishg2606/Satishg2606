@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm an enthusiastic software developer with a pass
 ## 🧑‍💻 About Me
 - 🌱 **Current Learning:** Linux device drivers , Mobile app development and MERN stack.
 - 🎯 **Focus Area:** Backend development, optimizing performance, and building scalable applications.
-- 📚 **Recent Project:** [EduPlay](https://github.com/Satishg2606/EduPlay) – A YouTube-like clone designed for comprehensive learning and fun.
+- 📚 **Recent Project:** [EduPlay](https://github.com/Satishg2606/EduPlay-Backend) – A YouTube-like clone designed for comprehensive learning and fun.
 - 💬 **Ask Me About:** Data Structures, Operating Systems, OOPs, and backend development.
 - 🚀 **Seeking:** Opportunities to expand my knowledge in distributed systems and contribute to innovative projects.
 
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm an enthusiastic software developer with a pass
 - **Version Control:** Git, GitHub
 
 ## 🌟 Featured Projects
-- [**EduPlay**](#) – A Youtube Like comprehensive video platform designed for educational content and entertainment.
+- [**EduPlay**](https://github.com/Satishg2606/EduPlay-Backend) – A Youtube Like comprehensive video platform designed for educational content and entertainment.
 - **Groww** – An app for Trading analytics that provide analysis of stocks.
 - **Expense** – An java console app for expenses handling withing a group. 
 
