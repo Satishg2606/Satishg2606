@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm an enthusiastic software developer with a pass
 ## 🧑‍💻 About Me
 - 🌱 **Current Learning:** Linux device drivers , Mobile app development and MERN stack.
 - 🎯 **Focus Area:** Backend development, optimizing performance, and building scalable applications.
-- 📚 **Recent Project:** [EduPlay](#) – A YouTube-like clone designed for comprehensive learning and fun.
+- 📚 **Recent Project:** [EduPlay](https://github.com/Satishg2606/EduPlay) – A YouTube-like clone designed for comprehensive learning and fun.
 - 💬 **Ask Me About:** Data Structures, Operating Systems, OOPs, and backend development.
 - 🚀 **Seeking:** Opportunities to expand my knowledge in distributed systems and contribute to innovative projects.
 
@@ -27,5 +27,5 @@ Welcome to my GitHub profile! I'm an enthusiastic software developer with a pass
 
 
 ## 🤝 Let's Connect!
-- **LinkedIn:** [https://www.linkedin.com/in/satish-gubge-169b85245/](#)
+- **LinkedIn:** [https://www.linkedin.com/in/satish-gubge](https://www.linkedin.com/in/satish-gubge-169b85245/)
 - **Email:** [gubgesatish@gmail.com](#)
